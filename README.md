@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I’m currently working on Halora Cosmetics, a mobile e-commerce app built with React Native, Firebase, and Cloudinary. I’m open to collaborating on open-source projects in Mobile Development and Web Frontend that bring value to the developer community. Right now, I’m learning Kotlin, Jetpack Compose, and modern web frameworks like Next.js, while also looking for help with optimizing app performance and creating advanced UI animations in React Native. You can ask me about React Native, Firebase, Java, Kotlin, or UI/UX for mobile apps. Fun fact: I can code for hours with lo-fi music 🎧, but I’ll drop everything if there’s good street food nearby 🍜.
+Mobile & Web Developer.
+Currently learning Kotlin, Jetpack Compose, and Next.js.
+Passionate about crafting modern apps with React Native, Firebase & Java.
+From Vietnam 🇻🇳 — love clean code, great UI/UX, and good coffee ☕.
 
 
 ## 🌐 Socials:
