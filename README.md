@@ -53,12 +53,3 @@ Full-stack e-commerce platform + cross-platform mobile app, awarded **Best Gradu
 
 - 🌐 **Web:** React · Redux · Firebase · Cloudinary → [Live demo](https://halora-cosmetic.vercel.app)
 - 📱 **Mobile:** React Native · Expo · Redux Toolkit · Stripe · OpenRouter AI → [Repo](https://github.com/Vileyy/user-halora-app)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vileyy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vileyy&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%" />
