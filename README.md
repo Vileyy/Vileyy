@@ -1,50 +1,53 @@
-# Hi, I'm Hieu (Viley)
+<div align="center">
 
-Software Engineer focused on building scalable applications, designing maintainable systems, and delivering reliable software across web and mobile platforms.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Doan%20Quoc%20Hieu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Real-time%20Systems&descSize=16&descAlignY=60" />
 
-Currently working at AutoMate Solutions, contributing to enterprise applications for international clients. Experienced in React, TypeScript, real-time systems, API integration, automated testing, and cross-platform mobile development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-doanquochieuu.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://doanquochieuu.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-doanhieu21-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doanhieu21)
+[![Email](https://img.shields.io/badge/Email-doanquochieu2104@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doanquochieu2104@gmail.com)
 
-### Tech Stack
+</div>
 
-**Languages & Core**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css" />
-</p>
+## 👋 About Me
 
-**Frontend & Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,reactnative,flutter" />
-</p>
+Software Engineer focused on **scalable applications, maintainable architecture, and reliable delivery** across web and mobile.
+Currently at **AutoMate Solutions**, building enterprise platforms for German clients with React, TypeScript, real-time sync (Pusher), RBAC, and heavy automated testing.
+🏆 **Best Graduation Project 2025**, Thu Dau Mot University.
 
-**Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,postgres,supabase" />
-</p>
+## 🛠️ Tech Stack
 
-**Tools & Engineering**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,playwright" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,reactnative,nodejs,python,fastapi,firebase,postgres,supabase,docker,git,playwright&perline=16" />
+</div>
 
-### Engineering Highlights
+## 🚀 Engineering Highlights
 
-- Built enterprise applications for international clients.
-- Delivered 180+ tracked roadmap tasks across production features.
-- Maintained 4,900+ unit tests with 80.5% line coverage.
-- Developed 78 Playwright E2E test suites.
-- Implemented real-time workflows using Pusher and WebSockets.
-- Designed RBAC systems and complex business workflows.
+| | |
+|---|---|
+| 📦 **180+** roadmap tasks shipped | Across 10+ production feature streams |
+| 🧪 **4,900+** unit tests | 80.5% line coverage with a CI coverage ratchet |
+| 🎭 **78** Playwright E2E suites | Multi-user booking, reschedule, payroll flows |
+| ⚡ **Real-time** workflows | Pusher with timeout guards against websocket race conditions |
+| 🔐 **RBAC** across 5 roles | 100% of restricted routes, views, and actions secured |
 
-### Featured Project
+## 💼 Experience
 
-**Halora Cosmetics** — Award-winning graduation project (2025).
+**Frontend Engineer, AutoMate Solutions** · Dec 2025 – Present
+- **ORBIT** (Sales & Field Ops): Call Center V2, Multi-Calendar Scheduling, Conversion Funnel, Payroll/Commissions
+- **ATLAS** (Construction Management): RBAC matrix, real-time digital construction logs (Bautagebuch)
 
-Developed a full-stack e-commerce platform and cross-platform mobile application using React, TypeScript, React Native, Redux Toolkit, Firebase, and Stripe.
+## ⭐ Featured Project: Halora Cosmetics
 
-### Connect
+Full-stack e-commerce platform + cross-platform mobile app, awarded **Best Graduation Project (2025)**.
 
-- Portfolio: https://doanquochieuu.vercel.app
-- LinkedIn: https://linkedin.com/in/doanhieu21
-- Email: doanquochieu2104@gmail.com
+- 🌐 **Web:** React · Redux · Firebase · Cloudinary → [Live demo](https://halora-cosmetic.vercel.app)
+- 📱 **Mobile:** React Native · Expo · Redux Toolkit · Stripe · OpenRouter AI → [Repo](https://github.com/Vileyy/user-halora-app)
 
-Always learning, continuously improving, and building software that makes a difference.
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vileyy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vileyy&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%" />
